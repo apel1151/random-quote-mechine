@@ -1,4 +1,2 @@
-This is a random quote machine for freecodecamp certification.
-live site is here: 
-
-https://apel2021.github.io/random-quote-mechine/ 
+## Random quote generator for freecodecamp certification.
+Link: https://apel2021.github.io/random-quote-mechine/ 
